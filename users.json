@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "first_name": "Lark",
+        "last_name": "Hayman",
+        "email": "lhayman0@dell.com",
+        "gender": "Polygender",
+        "salary":12000
+    },
+    {
+        "id": 2,
+        "first_name": "Abramo",
+        "last_name": "Sibthorpe",
+        "email": "asibthorpe1@symantec.com",
+        "gender": "Male",
+        "salary":22000
+    },
+    {
+        "id": 3,
+        "first_name": "Jim",
+        "last_name": "Mouncey",
+        "email": "jmouncey2@walmart.com",
+        "gender": "Male",
+        "salary":18000
+    },
+    {
+        "id": 4,
+        "first_name": "Gregg",
+        "last_name": "Cominello",
+        "email": "gcominello3@newsvine.com",
+        "gender": "Male",
+        "salary":19000
+    },
+    {
+        "id": 5,
+        "first_name": "Leroy",
+        "last_name": "Douglas",
+        "email": "ldouglas4@canalblog.com",
+        "gender": "Male",
+        "salary":20000
+    },
+    {
+        "id": 6,
+        "first_name": "Lindie",
+        "last_name": "Sawday",
+        "email": "lsawday5@fda.gov",
+        "gender": "Female",
+        "salary":16000
+    },
+    {
+        "id": 7,
+        "first_name": "Gene",
+        "last_name": "Dockery",
+        "email": "gdockery6@purevolume.com",
+        "gender": "Female",
+        "salary":15000
+    },
+    {
+        "id": 8,
+        "first_name": "Britteny",
+        "last_name": "Hawkyens",
+        "email": "bhawkyens7@sbwire.com",
+        "gender": "Female",
+        "salary":21000
+    },
+    {
+        "id": 9,
+        "first_name": "Eldredge",
+        "last_name": "Ferandez",
+        "email": "eferandez8@google.com.br",
+        "gender": "Male",
+        "salary":13000
+    }
+]
